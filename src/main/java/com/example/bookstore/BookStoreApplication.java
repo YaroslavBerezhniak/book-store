@@ -1,7 +1,7 @@
 package com.example.bookstore;
 
 import com.example.bookstore.model.Book;
-import com.example.bookstore.service.BookRepository;
+import com.example.bookstore.repository.BookRepository;
 import java.math.BigDecimal;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;

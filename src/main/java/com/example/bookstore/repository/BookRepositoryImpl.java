@@ -1,7 +1,6 @@
-package com.example.bookstore.service.impl;
+package com.example.bookstore.repository;
 
 import com.example.bookstore.model.Book;
-import com.example.bookstore.service.BookRepository;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
 import jakarta.persistence.TypedQuery;
